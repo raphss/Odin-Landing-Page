@@ -1,6 +1,6 @@
 # Odin-Landing-Page
 
-A website to check available information about "A Song of Ice and Fire" from G. R. R. Martin
+A website to check available information about "A Song of Ice and Fire" from G. R. R. Martin.
 Live site: https://raphss.github.io/Odin-Landing-Page/
 
 Pratice exercises from: https://www.theodinproject.com
